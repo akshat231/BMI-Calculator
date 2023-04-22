@@ -16,7 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <b>Main Page</b>
+<br><br>
 ![alt text](https://github.com/akshat231/BMI-Calculator/blob/main/Screenshot%202023-04-23%20015623.png)
+<br>
 <b> Result Page</b>
+<br><br>
 ![alt text](https://github.com/akshat231/BMI-Calculator/blob/main/Screenshot%202023-04-23%20015651.png)
 
