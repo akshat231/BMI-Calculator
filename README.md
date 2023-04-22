@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+A new Flutter project. This is a BMI Calculator inspired from Angela Yu Course on Flutter. Fully Working in 2023. 
 
 ## Getting Started
 
